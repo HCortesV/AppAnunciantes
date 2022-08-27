@@ -1,0 +1,15 @@
+D:\Trabajos\Test MB\AppAnunciantes\Application\bin\Debug\net5.0\Application.deps.json
+D:\Trabajos\Test MB\AppAnunciantes\Application\bin\Debug\net5.0\Application.dll
+D:\Trabajos\Test MB\AppAnunciantes\Application\bin\Debug\net5.0\Application.pdb
+D:\Trabajos\Test MB\AppAnunciantes\Application\bin\Debug\net5.0\Domain.dll
+D:\Trabajos\Test MB\AppAnunciantes\Application\bin\Debug\net5.0\Domain.pdb
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.dll
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\refint\Application.dll
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\Application.pdb
+D:\Trabajos\Test MB\AppAnunciantes\Application\obj\Debug\net5.0\ref\Application.dll
